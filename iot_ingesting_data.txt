@@ -1,2 +1,6 @@
 I am ingesting real time data
+<<<<<<< HEAD
 master here teja take care data
+=======
+siva ingested real time data.
+>>>>>>> feature_teja_1
